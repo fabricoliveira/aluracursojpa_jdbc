@@ -1,5 +1,7 @@
-.classpath
-.project
+*.classpath
+*.project
 /target/
-.class
-.settings
+*.class
+*.settings
+*.lck
+*.log
